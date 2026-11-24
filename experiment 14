@@ -1,1 +1,11 @@
+Aim:
+To perform password auditing using Hydra.
+Command:
+hydra -l admin -P passwords.txt ftp://192.168.1.10
+Procedure:
+1.	Create a password list. 
+2.	Execute Hydra against an authorized test service. 
+3.	Analyze results. 
+Result:
+Successfully demonstrated password auditing using Hydra
 
