@@ -1,1 +1,11 @@
+Aim:
+To execute batch files.
+Sample Batch File:
+@echo off
+echo Welcome to Ethical Hacking Lab
+pause
+Execution:
+sample.bat
+Result:
+Successfully executed batch file
 
