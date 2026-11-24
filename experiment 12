@@ -1,1 +1,9 @@
+Aim:
+To identify open ports on a target system.
+Commands:
+nmap 192.168.1.1
+nmap -sS 192.168.1.1
+Result:
+Open ports and running services were identified.
+________________________________________
 
