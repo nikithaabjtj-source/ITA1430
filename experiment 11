@@ -1,1 +1,20 @@
+(i) Aggressive Speed Scan
+Aim:
+To perform aggressive speed scanning using Nmap.
+Command:
+nmap -T4 192.168.1.1
+Procedure:
+1.	Open Terminal. 
+2.	Enter the above command. 
+3.	Observe the scan results. 
+Result:
+Successfully performed aggressive scan using Nmap.
+(ii) Insane Speed Scan
+Aim:
+To perform an insane speed scan using Nmap.
+Command:
+nmap -T5 192.168.1.1
+Result:
+Successfully executed Nmap insane speed scan.
+________________________________________
 
