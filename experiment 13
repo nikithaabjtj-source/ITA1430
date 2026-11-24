@@ -1,1 +1,7 @@
+Aim:
+To discover active hosts in a network.
+Commands:
+nmap -sn 192.168.1.0/24
+Result:
+Successfully discovered active hosts.
 
